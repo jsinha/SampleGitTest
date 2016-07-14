@@ -1,1 +1,1 @@
-First Sample test for Git. This is text added
+First Sample test for Git
